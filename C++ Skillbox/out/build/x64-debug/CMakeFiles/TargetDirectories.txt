@@ -1,5 +1,0 @@
-C:/Users/nikit/projects/C++ Skillbox/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/nikit/projects/C++ Skillbox/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/nikit/projects/C++ Skillbox/out/build/x64-debug/C++ Skillbox/CMakeFiles/CMakeTarget.dir
-C:/Users/nikit/projects/C++ Skillbox/out/build/x64-debug/C++ Skillbox/CMakeFiles/edit_cache.dir
-C:/Users/nikit/projects/C++ Skillbox/out/build/x64-debug/C++ Skillbox/CMakeFiles/rebuild_cache.dir
